@@ -10,5 +10,6 @@ fun main(args: Array<String>) {
     println("12345")
     println("12345")
     println("xiaoming")
+    println("xiaoming1")
     runApplication<DemoApplication>(*args)
 }
